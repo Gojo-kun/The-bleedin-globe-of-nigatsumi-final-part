@@ -9,12 +9,3 @@ Este projeto foi desenvolvido por:
  
 - Joel Matoso Ba2535
 
-Manuais:
-
-- [Manual Técnico](paint/manual_tecnico.md)
-  
-- [Manual de Utilizador](paint/manual_de_utilizador.md)
-
-Informações Adicionais:
-
-Link do Modelo de Fidelidade(Figma): [Figma](https://www.figma.com/design/7CxoFnOi5pEbVRhoiY8bq6/Figma-basics?node-id=1669-162202&p=f&t=1oPJtTEjHsoIQhm8-0)
