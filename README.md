@@ -8,4 +8,5 @@ Porém, o globo está sob ameaça. Forças sombrias, conhecidas como Os Espreita
 Este projeto foi desenvolvido por:
  
 - Joel Matoso Ba2535
+- 12 Curso GPSI
 
